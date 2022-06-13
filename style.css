@@ -1,0 +1,39 @@
+/* *{
+    padding: 0px;
+    margin: 0px;
+    border-width: 0px;
+} */
+img{
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+}
+#name{
+    display: block;
+}
+#intro{
+    display: flex;
+    justify-content: center;
+}
+#bio{
+    background-color: #faf6ec;
+}
+#description{
+    text-align: center;
+}
+h1{
+    font-family: sans-serif;
+}
+p{
+    font-family: Helvetica;
+}
+.port{
+    border-color: yellow;
+    border-width: 100px;
+    margin: 30px;
+}
+
+.po{
+    display: table-cell; 
+    vertical-align: top;
+}
